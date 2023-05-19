@@ -86,7 +86,8 @@ ProjectManager
 
 | 수정 전 ( 에러 ) | 수정 후 |
 |:----:| :----: |
-| <img src = "https://hackmd.io/_uploads/Sy8JTwQB2.png" width = 400> | <img src = "https://hackmd.io/_uploads/BkL1TPQH3.png" width = 400> | 
+| <img src = "https://github.com/Goatt8/ios-project-manager/assets/62684851/d2206548-9b8f-4f43-9fc8-fb2088841159" width = 400> | <img src = "https://github.com/Goatt8/ios-project-manager/assets/62684851/e63dcd7b-1859-4ce0-ba5c-625c58747d65" width = 400> | 
+
 
 ```swift
 //수정전
